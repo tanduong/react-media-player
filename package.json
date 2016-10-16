@@ -2,7 +2,7 @@
   "name": "react-media-player",
   "version": "0.5.0",
   "description": "React media player.",
-  "main": "lib/react-media-player.js",
+  "main": "dist/react-media-player.min.js",
   "files": [
     "dist/",
     "example/",
