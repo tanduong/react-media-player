@@ -4,8 +4,16 @@
   "description": "React media player.",
   "main": "lib/react-media-player.js",
   "files": [
-    "dist",
-    "lib"
+    "dist/",
+    "example/",
+    "src/",
+    "LICENSE",
+    "bower.json",
+    "package.json",
+    "webpack.config.js",
+    "webpack.prod.config.js",
+    "CHANGELOG.md",
+    "README.md",
   ],
   "scripts": {
     "build:lib": "babel src --out-dir lib",
